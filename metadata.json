@@ -1,0 +1,8 @@
+{
+  "name": "HospitCheck - Relevamiento de Sanatorio",
+  "description": "Una aplicación avanzada y dinámica para el relevamiento exhaustivo de sanatorios, con seguimiento habitación por habitación, análisis de estado en tiempo real y sugerencias de mantenimiento impulsadas por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
